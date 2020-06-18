@@ -1,0 +1,31 @@
+                    S P R I N T  0 0                    
+  UCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCU
+  U                                                    U
+  U   UCUCUCUCUCUCUCUCUCUC      UCUCUCUCUCUCUCUCUCUC   U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U   UCUCUCUCUCUCUCUCUCUC      UCUCUCUCUCUCUCUCUCUC   U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U   UCUCUCUCUCUCUCUCUCUC      UCUCUCUCUCUCUCUCUCUC   U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U   UCUCUCUCUCUCUCUCUCUC      UCUCUCUCUCUCUCUCUCUC   U
+  U                                                    U
+  U                                                    U
+  U                                                    U
+  U                                                     
+  UCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC_Deadline->
+  |                 |                                  |
+  | Press q to quit |                                  |
+  |                 |                                  |
+  +____________________________________________________+
